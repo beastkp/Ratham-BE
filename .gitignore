@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Output of build tools
+dist/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Cache directories
+.cache/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Logs and crash reports from Node.js
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: You can add other files or directories specific to your project here.

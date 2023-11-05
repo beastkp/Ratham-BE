@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "day": "Friday",
+      "time": "10:00 PM",
+      "student_name": "",
+      "completed": false,
+      "slot": 1,
+      "occupied": false
+    },
+    {
+      "day": "Friday",
+      "time": "10:00 PM",
+      "student_name": "",
+      "completed": false,
+      "slot": 2,
+      "occupied": false
+    },
+    {
+      "day": "Friday",
+      "time": "10:00 PM",
+      "student_name": "",
+      "completed": false,
+      "slot": 3,
+      "occupied": false
+    },
+    {
+      "day": "Friday",
+      "time": "10:00 PM",
+      "student_name": "",
+      "completed": false,
+      "slot": 4,
+      "occupied": false
+    },
+    {
+      "day": "Friday",
+      "time": "10:00 PM",
+      "student_name": "",
+      "completed": false,
+      "slot": 5,
+      "occupied": false
+    },
+    {
+      "day": "Friday",
+      "time": "10:00 PM",
+      "student_name": "",
+      "completed": false,
+      "slot": 6,
+      "occupied": false
+    },
+    {
+      "day": "Friday",
+      "time": "10:00 PM",
+      "student_name": "",
+      "completed": false,
+      "slot": 7,
+      "occupied": false
+    },
+    {
+      "day": "Friday",
+      "time": "10:00 PM",
+      "student_name": "",
+      "completed": false,
+      "slot": 8,
+      "occupied": false
+    }
+  ]
+}
